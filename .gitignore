@@ -19,3 +19,9 @@ __pycache__/
 # System files
 .DS_Store
 Thumbs.db
+
+DEMO_TOKEN=do_not_commit_this_token
+DATABASE_URL=sqlite:///local.db
+
+[INFO] temporary log file
+[DEBUG] this file must not be committed
